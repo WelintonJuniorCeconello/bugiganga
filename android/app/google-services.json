@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "10171508064",
+    "project_id": "bugiganga-7b817",
+    "storage_bucket": "bugiganga-7b817.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10171508064:android:32624409f6637a29092a05",
+        "android_client_info": {
+          "package_name": "com.bugiganga.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsN5qlCl0IaeLMVdzaS2Xsn5FxqUSi7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10171508064:android:ed97cc79eaa37f86092a05",
+        "android_client_info": {
+          "package_name": "com.example.bugiganga"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmsN5qlCl0IaeLMVdzaS2Xsn5FxqUSi7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
